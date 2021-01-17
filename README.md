@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**notYuriy/notYuriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everything low level is cool
 
-Here are some ideas to get you started:
+#### Nicknames
+I have quite a few nicknames
+* `Uriiy`
+* `Iurii`
+* `Yuriy`
+* `Yuri`
+* `flork`
+* `RiscInside`
+* `notYuriy`
+* `notIurii`
+* `yellowpfpdude`
+* `YELLOWPFP.SYS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+Currently, I am working on two projects:
+* CPL-1 - protected mode unix system like OS (WIP)
+* Florence OS - asyncronous OS with a new approach to process isolation and configurability (very WIP)
+
+#### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=notYuriy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notYuriy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
